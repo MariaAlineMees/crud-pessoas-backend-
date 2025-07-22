@@ -15,8 +15,3 @@ Este projeto é uma API criada com Node.js e Express para gerenciar um cadastro 
 - Express
 - CORS
 
-## ▶️ Como rodar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/crud-pessoas-backend.git
